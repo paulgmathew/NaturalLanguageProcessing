@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RULES>
+<NP>
+<DT></DT>
+<NN></NN>
+</NP>
+<VP>
+<VBZ></VBZ>
+<NP></NP>
+</VP>
+<S>
+<NP></NP>
+<VP></VP>
+</S>
+
+
+</RULES>

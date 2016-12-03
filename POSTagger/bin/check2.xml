@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RULES>
+
+<Rule level ='1'>
+		NP->PRP$NT
+	</Rule>
+	<Rule level ='1'>
+		NP->DTNT
+	</Rule>
+	<Rule level ='1'>
+	    NT->JJNN
+	</Rule>
+    <Rule level ='1'>
+		NP->DTNN
+	</Rule>
+
+	<Rule level ='1'>
+		NP->DTNN
+	</Rule>
+	<Rule level ='1'>
+		NP->NN
+	</Rule>
+	<Rule level ='1'>
+       NP->DT
+    </Rule>
+    <Rule level ='2'>
+       VP->VBZNP
+    </Rule>
+
+    <Rule level ='3'>
+       S->NPVP
+    </Rule>
+    
+    
+
+</RULES>
